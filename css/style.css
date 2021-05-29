@@ -78,6 +78,7 @@ a{
 	}
 	.model{
 		height:100px;
+		width:auto;
 	}
 	.details p{
 		font-size: 16px;
