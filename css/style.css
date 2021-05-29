@@ -73,11 +73,11 @@ a{
 /*--responsive for mobile phone--*/
 @media(max-width:720px){
 	.box{
-		width: 94%;
-		height: 500px;
+		width: 80%;
+		height: 300px;
 	}
 	.model{
-		height:250px;
+		height:100px;
 	}
 	.details p{
 		font-size: 16px;
